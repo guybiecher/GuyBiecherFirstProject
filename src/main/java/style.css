@@ -1,0 +1,90 @@
+#containerButton{
+     position:relative;
+     left:37%;
+}
+
+#Profile{
+    display : none;
+    position:relative;
+    left:40%;
+}
+
+#Calculator{
+    display : none;
+    position:relative;
+    left:40%;
+    font-style: italic;
+    background-color : #1ac6ff;
+    width:200px;
+    height:150px;
+}
+
+#ReadMe{
+    display : none;
+    position:relative;
+    left:40%;
+}
+
+.buttonProfile {
+    background-color: #0074D9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 auto;
+    cursor: pointer;
+    font-style: italic;
+
+
+}
+
+.buttonCalculator {
+    background-color: #3D9970;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-style: italic;
+
+}
+
+.buttonReadme {
+    background-color: #FF4136;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-style: italic;
+}
+
+.rotate90 {
+    width:304px;
+    height:228px;
+    transform: rotate(90deg);
+
+}
+
+#profileText{
+    font-style: italic;
+
+}
+
+#readMeTextNice{
+    color: green;
+    font-style: italic;
+}
+
+#readMeTextHard{
+    color: red;
+    font-style: italic;
+}
